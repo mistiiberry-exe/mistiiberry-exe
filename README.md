@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Abhishikta Dhar, an aspiring Data Analyst with M.Sc in IT, specializing in Artificial Intelligence. I'm passionate about uncovering insights from data, building predictive models, and solving real-world problems through machine learning and data analytics.<br>💡 My areas of interest include:<br>Machine Learning<br>Data Analysis<br>Data Visualization<br>Deep learning<br>📚 I'm constantly learning and expanding my skill set. <br> Let's connect! Feel free to check out my projects and get in touch. 
+I'm Abhishikta Dhar, an aspiring Data Analyst with M.Sc in IT, specializing in Artificial Intelligence. I'm passionate about uncovering insights from data, building predictive models, and solving real-world problems through machine learning and data analytics.<br>💡 My areas of interest include:<br>  Machine Learning<br>Data Analysis<br>  Data Visualization<br>  Deep learning<br>📚 I'm constantly learning and expanding my skill set. <br> Let's connect! Feel free to check out my projects and get in touch. 
 
 
 ## 📫 How to reach me:
